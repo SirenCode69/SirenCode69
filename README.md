@@ -1,91 +1,89 @@
 <div align="center">
 
-SirenCode
-
-Mohammad Oveissi
+👋 Hey, I’m Mohammad
 
 Backend Developer | SirenCode
 
+Django • Laravel • WordPress
+
+<br>
 </div>
 
 ⸻
 
-About Me
+درباره من
 
-Backend developer focused on building and maintaining web applications with Django, Laravel, and WordPress.
+من محمد اویسی هستم؛ Backend Developer و با نام SirenCode فعالیت می‌کنم.
 
-Most of my development work is in private repositories.
+تمرکز اصلی من روی توسعه وب و Backend با Django، Laravel و WordPress است.
 
-⸻
+بخش عمده پروژه‌هایی که روی آن‌ها کار می‌کنم در repositoryهای خصوصی نگهداری می‌شوند.
 
-Backend
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,wordpress" />
-</p>
-
-Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
-</p>
-
-WordPress
-
-* Custom Plugin Development
-* Custom Theme Development
-* WooCommerce Development
-* WordPress Hooks & Filters
-* WordPress REST API
-* Custom WordPress Solutions
-
-APIs & Backend Development
-
-* REST API Development
-* Authentication & Authorization
-* API Integration
-* Database Design & Integration
-
-Other Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react" />
-</p>
-
-Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-⸻
-
-GitHub
+⚡ Backend Stack
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SirenCode69&show_icons=true&hide_border=true&theme=github_dark" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirenCode69&layout=compact&hide_border=true&theme=github_dark" />
+<img src="https://skillicons.dev/icons?i=python,django,php,laravel,wordpress&theme=dark" />
 </div>
+<br>
 
-Most of my professional development work is maintained in private repositories.
+🗄️ Databases
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
+</div>
+<br>
+
+🧩 WordPress Development
+
+Custom Plugins      WooCommerce
+Custom Themes       Hooks & Filters
+REST API            Custom Solutions
+
+🔌 Backend & APIs
+
+REST API Development
+Authentication & Authorization
+Third-party API Integration
+Database Design & Integration
+
+🎨 Frontend Knowledge
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</div>
+<br>
+
+🛠️ Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+</div>
+<br>
 
 ⸻
 
-Connect
+📊 GitHub
 
-<p>
-  <a href="https://popcorncms.ir/">
-    <img src="https://img.shields.io/badge/Website-popcorncms.ir-222222?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/moveissi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Oveissi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SirenCode69">
-    <img src="https://img.shields.io/badge/GitHub-SirenCode69-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SirenCode69&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirenCode69&layout=compact&hide_border=true&theme=github_dark" />
+</div>
+<br>
+
+Note
+Most of my development work is maintained in private repositories, so my public GitHub activity doesn’t represent the full scope of my work.
+
+⸻
+
 <div align="center">
 
-SirenCode
+ارتباط با من
+
+ 
+</> SirenCode
+
+Backend Developer
 
 </div>
