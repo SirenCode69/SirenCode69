@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="githubjpg" width="100%" alt="SirenCode - Mohammad Oveissi | Backend Developer">
+<img src="./github-profile.jpg" width="100%" alt="SirenCode - Mohammad Oveissi | Backend Developer">
 
 </div>
